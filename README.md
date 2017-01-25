@@ -411,3 +411,5 @@ router.get('/logout', function(req, res) {
   res.redirect('/users');
 });
 ```
+## Resources
+[Authentication with Passport & MEAN stack](https://github.com/nax3t/angular-express-passport-tutorial)
